@@ -1,0 +1,50 @@
+.navbar-content {
+  width: 100%;
+  max-width: 100vw;
+  padding: 0 40px;
+  height: 90px;
+  position: sticky;
+  top: 0;
+  z-index: 2;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  box-sizing: border-box;
+  overflow-x: hidden;
+  font-family: Aptos, sans-serif;
+  overflow: hidden;
+}
+
+.Links {
+  display: flex;
+  align-items: center;
+  gap: 49px;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.Links a {
+  text-decoration: none;
+  color: #000;
+  font-size: 16px;
+}
+
+.Links button {
+  width: 185px;
+  height: 56px;
+  border-radius: 32px;
+  background-color: #40c6ff;
+  color: #fff;
+  border: none;
+  font-size: 16px;
+  font-weight: 500;
+  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.Links button:hover {
+  background-color: #2fb8f2;
+}
