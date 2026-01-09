@@ -33,8 +33,7 @@
   width: calc(100% - 80px);
   height: 596px;
   background: #00000066;
-  filter: blur(100px);
-  opacity: 100%;
+  opacity: 80%;
   border-bottom-left-radius: 48px;
   border-bottom-right-radius: 48px;
   z-index: 1;
@@ -44,7 +43,7 @@
 h3{
   font-size:  78px;
   color: #ffffff;
-  font-family: Aptos,sans-serif;
+  font-family: Bayon,sans-serif;
   position: absolute;
   top: 290px;
   left: 70px;
@@ -52,13 +51,14 @@ h3{
 }
 
 p {
-  max-width: 1000px;
-  font-family: Aptos,sans-serif;
+  max-width: 740px;
+  font-family: Bayon,sans-serif;
   font-size: 20px;
+  text-transform: uppercase;
   color: #ffffff;
   position: absolute;
   z-index: 2;
-  top: 460px;
+  top: 440px;
   left: 70px;
-  line-height: 1.4;
+  line-height: 1.7;
 }
