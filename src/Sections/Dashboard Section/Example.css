@@ -6,13 +6,13 @@
     margin-top: -190px;
     position: relative;
     font-family: Aptos, sans-serif;
-    left: 40px;
+    left: 25px;
     font-size: 76px;
     font-weight: 600;
     color: #000000;
     text-align: center;
 }
 
-.page h3{
-    transform: translateY(-50%);
+.topic{
+    transform: translateY(-50%) 0.5s linear;
 }
