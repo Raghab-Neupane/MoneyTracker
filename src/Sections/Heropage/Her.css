@@ -53,9 +53,9 @@ h3{
 p {
   max-width: 740px;
   font-family: Bayon ,sans-serif;
-  font-size: 20px;
-  text-transform: uppercase;
-  color: #ffffff;
+  font-size: 16px;
+  
+  color: #c1c1c1;
   position: absolute;
   z-index: 2;
   top: 440px;
