@@ -43,7 +43,7 @@
 h3{
   font-size:  78px;
   color: #ffffff;
-  font-family: Bayon,sans-serif;
+  font-family: Bayon ,sans-serif;
   position: absolute;
   top: 290px;
   left: 70px;
@@ -52,7 +52,7 @@ h3{
 
 p {
   max-width: 740px;
-  font-family: Bayon,sans-serif;
+  font-family: Bayon ,sans-serif;
   font-size: 20px;
   text-transform: uppercase;
   color: #ffffff;

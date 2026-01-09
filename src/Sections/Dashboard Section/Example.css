@@ -1,0 +1,11 @@
+.page{
+    min-height: 100vh;
+}
+
+.page h3{
+    position: relative;
+    font-family: Aptos, sans-serif;
+    font-size: 36px;
+    font-weight: 600;
+    color: #000000;
+}
