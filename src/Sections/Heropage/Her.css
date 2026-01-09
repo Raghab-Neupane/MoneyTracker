@@ -37,3 +37,14 @@ h3{
   left: 70px;
   z-index: 2;
 }
+
+p {
+  font-family: Aptos,sans-serif;
+  font-size: 20px;
+  color: #ffffff;
+  position: absolute;
+  z-index: 2;
+  top: 460px;
+  left: 70px;
+  line-height: 1.4;
+}
