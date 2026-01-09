@@ -15,6 +15,17 @@
   border-bottom-right-radius: 48px;
 }
 
+.overlay {
+  position: absolute;
+  top: 0;
+  width: calc(100% - 80px);
+  height: 596px;
+  background: #00000066;
+  opacity: 80%;
+  border-bottom-left-radius: 48px;
+  border-bottom-right-radius: 48px;
+  z-index: 1;
+}
 
 
 h3{
@@ -22,7 +33,7 @@ h3{
   color: #ffffff;
   font-family: Aptos,sans-serif;
   position: absolute;
-  top: 340px;
+  top: 290px;
   left: 70px;
   z-index: 2;
 }
