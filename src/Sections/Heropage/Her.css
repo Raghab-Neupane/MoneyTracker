@@ -14,3 +14,15 @@
   border-bottom-left-radius: 48px;
   border-bottom-right-radius: 48px;
 }
+
+
+
+h3{
+  font-size:  88px;
+  color: #ffffff;
+  font-family: Aptos,sans-serif;
+  position: absolute;
+  top: 340px;
+  left: 70px;
+  z-index: 2;
+}
