@@ -1,3 +1,23 @@
+@font-face {
+  font-family: 'Nexa';
+  src: url('../src/assets/fonts/Nexa-Light.otf') format('opentype');
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Nexa-Bold';
+  src: url('../.q./assets/fonts/Nexa-Bold.otf') format('opentype');
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Hiragino';
+  src: url('../../src/assets/fonts/Hiragino\ Kaku\ Gothic\ Pro\ W3.otf') format('opentype');
+  font-weight: 100;
+}
 .navbar-content {
   width: 100%;
   max-width: 100vw;
@@ -11,7 +31,8 @@
   justify-content: space-between;
   box-sizing: border-box;
   overflow-x: hidden;
-  font-family: Aptos, sans-serif;
+  font-family: 'Nexa';
+  font-weight: 300px;
   overflow: hidden;
 }
 
@@ -27,7 +48,7 @@
 .Links a {
   text-decoration: none;
   color: #000;
-  font-size: 16px;
+  font-size: 19px;
 }
 
 .Links button {

@@ -1,3 +1,24 @@
+@font-face {
+  font-family: 'Nexa';
+  src: url('../src/assets/fonts/Nexa-Light.otf') format('opentype');
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Nexa-1';
+  src: url('../.q./assets/fonts/Nexa-Bold.otf') format('opentype');
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Hiragino';
+  src: url('../../src/assets/fonts/Hiragino\ Kaku\ Gothic\ Pro\ W3.otf') format('opentype');
+  font-weight: 100;
+}
+
 .page{
     min-height: 100vh;
 }
